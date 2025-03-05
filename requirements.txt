@@ -1,0 +1,10 @@
+seaborn
+pandas
+matplotlib
+numpy
+scipy
+statistics
+highlight-text
+plotly
+scikit-learn
+altair
